@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499538476096",
+    "firebase_url": "https://lolocal-a010b-default-rtdb.firebaseio.com",
+    "project_id": "lolocal-a010b",
+    "storage_bucket": "lolocal-a010b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499538476096:android:61ce0519c348446a6773a5",
+        "android_client_info": {
+          "package_name": "com.app.lolocal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEdYZBmI0RLW0tuubRoqE_PQSsqjdzU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499538476096-qtghv256uinbbk8p2iopnu7f1inpge5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
