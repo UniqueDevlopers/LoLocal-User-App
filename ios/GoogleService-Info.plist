@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>499538476096-k85gi39jlokmn24gglr6ol8vmlkkosk4.apps.googleusercontent.com</string>
+	<string>499538476096-821p2agvms6dbh5hu5ed1a9v2f99plsp.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.499538476096-k85gi39jlokmn24gglr6ol8vmlkkosk4</string>
+	<string>com.googleusercontent.apps.499538476096-821p2agvms6dbh5hu5ed1a9v2f99plsp</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>499538476096-da6ne154gf3s84g9149ds8ghhevhd3dp.apps.googleusercontent.com</string>
+	<string>499538476096-3m1r60507jhta6e1s7549go1k49aeqj7.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCyimc0dtRgr0VEpY3FxaYnzRgJFGAAh8I</string>
 	<key>GCM_SENDER_ID</key>
@@ -15,7 +15,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.app.lolocal</string>
+	<string>com.app.lolocalapp</string>
 	<key>PROJECT_ID</key>
 	<string>lolocal-a010b</string>
 	<key>STORAGE_BUCKET</key>
@@ -31,7 +31,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:499538476096:ios:a6e708f204e893166773a5</string>
+	<string>1:499538476096:ios:967666185dfbbd8a6773a5</string>
 	<key>DATABASE_URL</key>
 	<string>https://lolocal-a010b-default-rtdb.firebaseio.com</string>
 </dict>
